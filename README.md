@@ -1,6 +1,3 @@
-# php_registration_complete_backend
-PHP user registration form with email validation and secure password handling
-
 # Simple PHP Registration Form
 
 This project is a PHP user registration form with server-side validation.  
